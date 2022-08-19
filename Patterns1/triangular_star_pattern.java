@@ -1,3 +1,10 @@
+/* Print the following pattern for n=4 :)
+*
+**
+***
+****
+*/
+
 
 import java.util.Scanner;
 public class Solution {
