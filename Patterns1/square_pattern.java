@@ -1,8 +1,8 @@
 /* Print the following pattern for n=4 :)
-*
-**
-***
-****
+4444
+4444
+4444
+4444
 */
 
 
