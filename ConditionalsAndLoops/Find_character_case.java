@@ -17,6 +17,5 @@ public class Solution {
             System.out.print("1");
         else
              System.out.print("-1");
-
     }
 }
