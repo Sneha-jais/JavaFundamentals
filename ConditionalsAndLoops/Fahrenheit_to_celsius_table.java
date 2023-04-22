@@ -2,10 +2,7 @@
 import java.util.Scanner;
 
 public class Solution {
-
-
-	public static void main(String[] args) {
-		
+		public static void main(String[] args) {		
 		/* Your class should be named Solution.
 	 	* Print output as specified in the question.
 		*/
