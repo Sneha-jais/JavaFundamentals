@@ -1,11 +1,15 @@
 /* :)
+
 You have been given a sorted(in ascending order) integer array/list(ARR) of size N and an element X. Write a function to search this element in the given input array/list using 'Binary Search'. Return the index of the element in the input array/list. In case the element is not present in the array/list, then return -1.
+
 input:
 7
 1 3 7 9 11 12 45
 1
 3
+
 output: 1
+
 */
 
 
