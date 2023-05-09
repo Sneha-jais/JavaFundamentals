@@ -1,6 +1,7 @@
 
 import java.util.Scanner;
 
+
 public class Solution {
 		public static void main(String[] args) {		
 		/* Your class should be named Solution.
@@ -13,8 +14,7 @@ public class Solution {
 	int F;
         
         while(S<=E)
-        {
-         
+        {         
             F=((5*(S-32))/9);
              System.out.println(S+" "+F);
             S+=W;
